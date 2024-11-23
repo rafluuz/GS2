@@ -25,15 +25,19 @@ Recomendações Personalizadas: Sugestões baseadas em inteligência artificial 
 Controle Remoto de Dispositivos: Desligue ou ajuste o consumo de dispositivos quando não estiverem em uso.
 Insights para Redução de Desperdício: Utilize IA para analisar padrões de consumo e otimizar as operações.
 Engajamento Sustentável: Recompensas para usuários que adotam práticas energéticas mais eficientes e sustentáveis.
+
 🗂️ Estrutura do Projeto
 📂 Pasta API
 Controller: Gerencia as requisições HTTP e coordena as operações de monitoramento e controle remoto dos dispositivos.
 Models: Representações dos objetos principais, como Usuario, Dispositivo, Consumo, Recomendacao.
 Services/Repository: Implementações da lógica de negócio para monitoramento de consumo, controle de dispositivos e recomendações personalizadas.
+
 📂 Pasta Documentação
 Documentação técnica detalhada sobre a API, incluindo endpoints, parâmetros e exemplos de uso, configurado com Swagger para facilitar a interação.
+
 📂 Pasta Testes
 Contém testes unitários para garantir que todos os processos de monitoramento, controle e recomendações funcionem corretamente.
+
 🤖 Inteligência Artificial para Otimização de Consumo
 A plataforma utiliza Machine Learning para analisar os padrões de consumo e oferecer recomendações personalizadas aos usuários, ajudando-os a reduzir o desperdício e economizar energia. A IA realiza análises preditivas e fornece insights sobre quais dispositivos devem ser ajustados para um consumo mais eficiente.
 
